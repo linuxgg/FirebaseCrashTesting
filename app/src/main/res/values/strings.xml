@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirebaseCrashTesting</string>
+    <string name="firebase_crash_testing">firebase crash testing</string>
 </resources>
