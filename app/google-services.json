@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1089246717329",
+    "firebase_url": "https://fir-crashtesting.firebaseio.com",
+    "project_id": "fir-crashtesting",
+    "storage_bucket": "fir-crashtesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089246717329:android:98dbbdf6357b4f5c",
+        "android_client_info": {
+          "package_name": "map.tomdiy.com.firebasecrashtesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089246717329-09lmks7lpl134973o6lkivtf8lpdvcrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgZgUBTT49jfUfYZHU9iOZEvjnvIEx64I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
